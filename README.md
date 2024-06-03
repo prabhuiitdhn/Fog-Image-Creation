@@ -15,5 +15,8 @@ The estimation of elevation of the pixels in the image gives accurate distance o
  ![image](https://github.com/prabhuiitdhn/Fog-Image-Creation/assets/19517005/75a074c8-bf4e-4915-a5c3-8521fd6fbb2b)
 
 
-
+Paper followed for the experimentation.
+1. Towards Simulating Foggy and Hazy Images and Evaluating Their Authenticity
+2. A review on dark channel prior based image dehazing algorithms
+3. Foggy scene rendering based on transmission map estimation.
 
