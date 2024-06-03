@@ -20,3 +20,4 @@ Paper followed for the experimentation.
 2. A review on dark channel prior based image dehazing algorithms
 3. Foggy scene rendering based on transmission map estimation.
 
+Reference code: https://github.com/noahzn/FoHIS/tree/master
