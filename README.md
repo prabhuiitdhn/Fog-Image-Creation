@@ -20,4 +20,7 @@ Paper followed for the experimentation.
 2. A review on dark channel prior based image dehazing algorithms
 3. Foggy scene rendering based on transmission map estimation.
 
+output images: 
+![result_400_300_1500](https://github.com/prabhuiitdhn/Fog-Image-Creation/assets/19517005/bc777e6f-b4c7-4ac4-b458-cd7a667deac8)
+
 Reference code: https://github.com/noahzn/FoHIS/tree/master
